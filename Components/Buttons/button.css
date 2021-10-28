@@ -1,0 +1,19 @@
+.button{
+    background-color: rgb(160, 160, 160);
+    align-items: center;
+    color: rgb(0, 0, 0);
+    border: 10px solid black;
+    border-radius: 10px;
+    font-size: 100px;
+    padding: 20px;
+}
+
+.one{
+    padding: 200px;
+    padding-left: 530px;
+
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
